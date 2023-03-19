@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Distance Tracker</string>
+
+    <string name="google_maps_key">AIzaSyDbJzBA2d3PzCAiFe3C_RQ-V4d30Qj3Kt4</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+
+</resources>
